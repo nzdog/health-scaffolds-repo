@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "fd1ff0bc2c39f169",
+    "type": "split",
+    "children": [
+      {
+        "id": "8843b4661f735fe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5db14c7ee97d597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bowel Cancer/1.1.2-Gut-Friendly-Foods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1.2-Gut-Friendly-Foods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a42f6eabbe25a3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfce3039f2c28860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d8bd9f40cb0383",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a358f4fb903e8f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9777760bdf13dda5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ad095435ccba18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc4c7c35e783217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556e75d770f6b380",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6fac92968982e995",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8d2a6002176d80a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c2d00b9dea2ee1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5db14c7ee97d597",
+  "lastOpenFiles": [
+    "MetaVault-2000/Untitled.md",
+    "Bowel Cancer/1.1.1-Key-Dietary-Principles.md",
+    "Bowel Cancer/1.1 Nutritional-Support.md",
+    "Bowel Cancer/1 Healing-Scaffold.md",
+    "MetaVault-2000/Templates/Meta-Level Document Template.md",
+    "MetaVault-2000/Templates",
+    "MetaVault-2000/Global Tag Hierarchy markdown.md",
+    "MetaVault-2000/File-Organization.md",
+    "MetaVault-2000",
+    "Bowel Cancer/Bowel Cancer Healing Scaffold_ .pages",
+    "Bowel Cancer/1.9.5-Digestive-Enzymes.md",
+    "Bowel Cancer/1.9.4-Probiotic-Supplementation.md",
+    "Bowel Cancer/1.9.3-Vitamin-D3-K2.md",
+    "Bowel Cancer/1.9.1-Multivitamin-Support.md",
+    "Bowel Cancer/1.9.2-Omega-3-Fish-Oil.md",
+    "Bowel Cancer/1.9-Personalised-Supplementation.md",
+    "Bowel Cancer/1.9-Personalised-Supplementation",
+    "Bowel Cancer/1.8.3-Healing-Practices.md",
+    "Bowel Cancer/1.8.2-Expressive-Writing.md",
+    "Bowel Cancer/1.8.1-Counselling-and-Support-Groups.md",
+    "Bowel Cancer/1.7.3-Micronutrient-Testing.md",
+    "Bowel Cancer/1.8-Emotional-&-Mental-Well-Being.md",
+    "Bowel Cancer/1.6.2-Sleep-Supporting-Nutrients.md",
+    "Bowel Cancer/1.7.4-Stool-Testing-for-Gut-Health.md",
+    "Bowel Cancer/1.7.2-Cancer-Marker-Monitoring.md",
+    "Bowel Cancer/1.7.1-Inflammatory-Markers.md",
+    "Bowel Cancer/1.7-Tracking-Progress-With-Lab-Testing.md",
+    "Bowel Cancer/1.7-1.7-Tracking-Progress-with-Lab-Testing",
+    "Bowel Cancer/1.6.1-Sleep-Hygiene.md",
+    "Bowel Cancer/1.6-Sleep-&-Recovery-Support.md",
+    "Bowel Cancer/1.5.1-Stress-Reduction-Techniques.md",
+    "Bowel Cancer",
+    "Bowel Cancer alias"
+  ]
+}
